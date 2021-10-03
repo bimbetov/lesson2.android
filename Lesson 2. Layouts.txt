@@ -1,0 +1,6 @@
+Lesson 2.
+1) LinearLayout
+2) TextView > TextView, ImageView, ScrollView
+3) True
+4) False
+5) ImageView
