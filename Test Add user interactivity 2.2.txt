@@ -1,0 +1,4 @@
+1) TextView
+2) Gone
+3) False
+4) Button views are clickable, and on click, the attached click listener performs an action.
