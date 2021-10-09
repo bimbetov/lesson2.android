@@ -1,0 +1,6 @@
+1) These calls can slow down the user interface.
+2) The big idea about data binding is to create an object that connects/maps/binds two pieces
+of distant information together at compile time, so that you don't have to look for the data at runtime.
+3) Type safety for accessing views.
+4) Bindings are created for all the views in a layout.
+5) android:text="@={myDataClass.property}"
