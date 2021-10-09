@@ -1,0 +1,5 @@
+1) At least one horizontal and one vertical constraint.
+2) Wrap content
+3) True
+4) A ConstraintLayout
+5) Bidirectional constraints
